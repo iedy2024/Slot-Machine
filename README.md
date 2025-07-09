@@ -15,17 +15,20 @@ Tasks:
 
         Score breakdown:
         a. The score is counted only in a 3x3 submatrix from the top-left corner.
+  
         b. ‘n’ matching symbols award ‘n’ points; valid when n ≥ 3.
+  
         c. A diagonal is worth 7 points.
+  
         d. Two diagonals forming an 'X' shape are worth 21 points.
 
-3.    This task combines tasks 1 and 2 by making multiple column rolls and calculating all the winnings.
+4.    This task combines tasks 1 and 2 by making multiple column rolls and calculating all the winnings.
 
-4.    This task calculates the best possible score by changing one specific symbol in the matrix.
+5.    This task calculates the best possible score by changing one specific symbol in the matrix.
 
-5.    In this task, the program swaps any two columns to obtain the highest score.
+6.    In this task, the program swaps any two columns to obtain the highest score.
 
-6.    This task steps away from gambling. It finds the minimum-cost path from the top-left to the bottom-right of the matrix.
+7.    This task steps away from gambling. It finds the minimum-cost path from the top-left to the bottom-right of the matrix.
     The cost is determined by the absolute difference between the current cell and the next.
 
 Input:
