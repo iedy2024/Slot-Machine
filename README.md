@@ -14,6 +14,7 @@ Tasks:
 2.    Calculate the score for a matrix.
 
         Score breakdown:
+  
         a. The score is counted only in a 3x3 submatrix from the top-left corner.
   
         b. ‘n’ matching symbols award ‘n’ points; valid when n ≥ 3.
